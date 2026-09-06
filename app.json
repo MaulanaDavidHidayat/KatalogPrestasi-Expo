@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "KatalogPrestasi",
-    "slug": "KatalogPrestasi",
+    "name": "Katalog Prestasi Siswa",
+    "slug": "Katalog Prestasi Siswa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,7 +16,7 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "package": "com.maulanaa.KatalogPrestasi"
+      "package": "com.maulanaa.Katalog Prestasi Siswa"
     },
     "web": {
       "favicon": "./assets/favicon.png"
